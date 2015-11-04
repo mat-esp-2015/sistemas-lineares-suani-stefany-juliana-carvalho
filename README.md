@@ -80,14 +80,17 @@ da nota) se atender parcialmente ao critério, ou "zero" se falhar ao critério.
 Note que a nota máxima (incluindo a bônus) é 10.
 
     - [] Mensagens de commit que explicam claramente a mudança que foi feita
-      [total|parcial|zero] 1 pt
+      [total|parcial|zero] 0.5 pt
     - [] Formatação do código apropriada.
       Ex: `espacamento = (maximo - minimo)/(N - 1)`,
       `indices = range(0, N, 1)`, `dado = dados[i + 1]` == BOM.
       `espacamento=(maximo-minimo)/ (N-1)`, `indices=range (0,N,1)`,
       `dado= dados [i+ 1]` == RUIM [total|parcial|zero] 0.5 pt
+    - [] Utilizar variáveis ao invés de colocar número "na mão".
+      Ex: `for i in range(0, N):`, `A[k][N - 1]` == BOM.
+      `for i in range(0, 39):`, `A[k][47]` == RUIM. [total|parcial|zero] 1 pt
     - [] Código com comentários que explicam "por que" algo foi feito, não só
-      "o que" foi feito [total|parcial|zero] 1.5 pt
+      "o que" foi feito [total|parcial|zero] 1 pt
     - [] Nomes de variáveis descritivos. Ex: `temperatura`, `media_por_hora`,
       `linha`, `somatorio` == bom. `a`, `var`, `meh`, `lista` == ruim.
       [total|parcial|zero] 2 pt
