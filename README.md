@@ -79,12 +79,22 @@ receber a nota "total" se atender perfeitamente ao critério, "parcial" (metade
 da nota) se atender parcialmente ao critério, ou "zero" se falhar ao critério.
 Note que a nota máxima (incluindo a bônus) é 10.
 
-    - [] Mensagens de commit que explicam claramente a mudança que foi feita [total|parcial|zero] 1 pt
-    - [] Formatação do código apropriada. Ex: `espacamento = (maximo - minimo)/(N - 1)`, `indices = range(0, N, 1)`, `dado = dados[i + 1]` == BOM. `espacamento=(maximo-minimo)/ (N-1)`, `indices=range (0,N,1)`, `dado= dados [i+ 1]` == RUIM [total|parcial|zero] 0.5 pt
-    - [] Código com comentários que explicam "por que" algo foi feito, não só "o que" foi feito [total|parcial|zero] 1.5 pt
-    - [] Nomes de variáveis descritivos. Ex: `temperatura`, `media_por_hora`, `linha`, `somatorio` == bom. `a`, `var`, `meh`, `lista` == ruim. [total|parcial|zero] 2 pt
-    - [] Código produz a solução correta (**exatamente** como deveria ser impresso) [total|parcial|zero] 5 pt
-    - [] Tarefa bônus [total|parcial|zero] 1 pt extra (não será considerado caso a nota já seja 10)
+    - [] Mensagens de commit que explicam claramente a mudança que foi feita
+      [total|parcial|zero] 1 pt
+    - [] Formatação do código apropriada.
+      Ex: `espacamento = (maximo - minimo)/(N - 1)`,
+      `indices = range(0, N, 1)`, `dado = dados[i + 1]` == BOM.
+      `espacamento=(maximo-minimo)/ (N-1)`, `indices=range (0,N,1)`,
+      `dado= dados [i+ 1]` == RUIM [total|parcial|zero] 0.5 pt
+    - [] Código com comentários que explicam "por que" algo foi feito, não só
+      "o que" foi feito [total|parcial|zero] 1.5 pt
+    - [] Nomes de variáveis descritivos. Ex: `temperatura`, `media_por_hora`,
+      `linha`, `somatorio` == bom. `a`, `var`, `meh`, `lista` == ruim.
+      [total|parcial|zero] 2 pt
+    - [] Código produz a solução correta (**exatamente** como deveria ser
+      impresso) [total|parcial|zero] 5 pt
+    - [] Tarefa bônus [total|parcial|zero] 1 pt extra (não será considerado
+      caso a nota já seja 10)
 
 ## License
 
