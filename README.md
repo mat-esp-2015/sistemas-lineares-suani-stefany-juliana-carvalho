@@ -17,6 +17,7 @@ Ministrado por [Leonardo Uieda](http://www.leouieda.com/).
 
 * https://en.wikipedia.org/wiki/Gaussian_elimination
 * http://mathworld.wolfram.com/GaussianElimination.html
+* http://www.dcc.ufrj.br/~rincon/Disciplinas/Algebra%20Linear/Aula_013.pdf
 * https://en.wikipedia.org/wiki/Pivot_element (para a tarefa bônus)
 * http://www.math.iitb.ac.in/~neela/partialpivot.pdf (para a tarefa bônus)
 
